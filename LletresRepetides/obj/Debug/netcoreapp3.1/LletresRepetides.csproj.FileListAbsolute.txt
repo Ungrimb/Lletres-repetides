@@ -1,0 +1,13 @@
+C:\Users\arkar\source\repos\Lletres-repetides\LletresRepetides\bin\Debug\netcoreapp3.1\LletresRepetides.exe
+C:\Users\arkar\source\repos\Lletres-repetides\LletresRepetides\bin\Debug\netcoreapp3.1\LletresRepetides.deps.json
+C:\Users\arkar\source\repos\Lletres-repetides\LletresRepetides\bin\Debug\netcoreapp3.1\LletresRepetides.runtimeconfig.json
+C:\Users\arkar\source\repos\Lletres-repetides\LletresRepetides\bin\Debug\netcoreapp3.1\LletresRepetides.runtimeconfig.dev.json
+C:\Users\arkar\source\repos\Lletres-repetides\LletresRepetides\bin\Debug\netcoreapp3.1\LletresRepetides.dll
+C:\Users\arkar\source\repos\Lletres-repetides\LletresRepetides\bin\Debug\netcoreapp3.1\LletresRepetides.pdb
+C:\Users\arkar\source\repos\Lletres-repetides\LletresRepetides\obj\Debug\netcoreapp3.1\LletresRepetides.csprojAssemblyReference.cache
+C:\Users\arkar\source\repos\Lletres-repetides\LletresRepetides\obj\Debug\netcoreapp3.1\LletresRepetides.AssemblyInfoInputs.cache
+C:\Users\arkar\source\repos\Lletres-repetides\LletresRepetides\obj\Debug\netcoreapp3.1\LletresRepetides.AssemblyInfo.cs
+C:\Users\arkar\source\repos\Lletres-repetides\LletresRepetides\obj\Debug\netcoreapp3.1\LletresRepetides.csproj.CoreCompileInputs.cache
+C:\Users\arkar\source\repos\Lletres-repetides\LletresRepetides\obj\Debug\netcoreapp3.1\LletresRepetides.dll
+C:\Users\arkar\source\repos\Lletres-repetides\LletresRepetides\obj\Debug\netcoreapp3.1\LletresRepetides.pdb
+C:\Users\arkar\source\repos\Lletres-repetides\LletresRepetides\obj\Debug\netcoreapp3.1\LletresRepetides.genruntimeconfig.cache
